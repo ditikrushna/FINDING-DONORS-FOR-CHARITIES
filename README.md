@@ -11,8 +11,6 @@
        - quality can vary widely on the input 
        - problem feasibility needs to be "easy"  
     - [x] Optimization Models **[Lecture - 2]**
-       - How model an optimization Problem
-       	 - Decision Variable
-	
-
+       - How model an optimization Problem 
+       	 
 		   
