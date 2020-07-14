@@ -1,1 +1,1 @@
-## FINDING DONORS FOR CHARITIES MACHINE LEARNING PROJECT 
+## Finding Donors for Charities Machine Learning Project 
