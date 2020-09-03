@@ -1,6 +1,6 @@
 
 
-# Finding Donors for Charities Machine Learning Project
+# Finding Donors for Charities 
 ## Table of Content
   * [Overview](#overview)
   * [Problem Statement](#problem-statement)
